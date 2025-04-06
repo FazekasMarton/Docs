@@ -22,3 +22,13 @@
 
 - **HalászG Nest.js kerete**  
   [GitHub - NestJS keret 2024](https://github.com/hgabor/nestjs-keret-2024)
+
+- **Faker.js Usage**  
+  [Faker.js Guide](https://fakerjs.dev/guide/usage.html)
+
+#### Prisma
+- **Prisma Schema**  
+  [Prisma Schema Docs](https://www.prisma.io/docs/orm/prisma-schema)
+
+- **Prisma Migrate**  
+  [Prisma Migrate Workflows](https://www.prisma.io/docs/orm/prisma-migrate/workflows/seeding)
